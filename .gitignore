@@ -4,3 +4,4 @@ obj/
 .env
 .venv
 google_credentials.json
+__pycache__
