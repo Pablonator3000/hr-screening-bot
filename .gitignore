@@ -1,0 +1,6 @@
+bin/
+obj/
+.idea/
+.env
+.venv
+google_credentials.json
